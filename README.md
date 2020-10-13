@@ -1,3 +1,3 @@
 # SobControle
 
-Aplicativo em Flutter sobre ansiedade
+Aplicativo sobre ansiedade
